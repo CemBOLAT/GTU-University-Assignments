@@ -1,4 +1,4 @@
-char  operation;
+int  operation;
   
 void setup() {
   Serial.begin(9600);
@@ -12,15 +12,15 @@ void loop() {
     Serial.flush();
     switch (operation)
     {
-    case '1':
+    case 49:
       digitalWrite(LED_BUILTIN, HIGH);
       delay(1000);
       break;
-    case '2':
+    case 50:
       digitalWrite(LED_BUILTIN, LOW);
       delay(1000);
       break;
-    case '3':
+    case 51:
       int counter = 0;
       while (counter++ <= 2)
       {
@@ -31,11 +31,12 @@ void loop() {
         //Serial.println(counter);
       }
       break;
-    }
-    case '4':
+    case 52:
       int sqr = 0;
       sqr = Serial.parseInt();
       Serial.println(sqr * sqr);
+      break;
+    }
   }
   delay(200);
 }
