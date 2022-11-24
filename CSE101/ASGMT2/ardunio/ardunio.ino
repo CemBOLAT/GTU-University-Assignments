@@ -1,4 +1,4 @@
-int oeration;
+int operation;
 int counter = 0;
 
 void setup() {
