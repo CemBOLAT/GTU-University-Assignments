@@ -4,7 +4,6 @@
 
 char    *portName = "/dev/ttyUSB0";
 void    f_project_menu(void);
-void    f_ardunio_listener(int command);
 void    f_square_taken(int  nbr, FILE *ardunio);
 
 int main(void)
