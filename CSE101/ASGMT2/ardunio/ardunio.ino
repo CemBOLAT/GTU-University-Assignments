@@ -1,5 +1,6 @@
-int  operation;
-  
+int oeration;
+int counter = 0;
+
 void setup() {
   Serial.begin(9600);
   pinMode(LED_BUILTIN, OUTPUT);
@@ -21,20 +22,20 @@ void loop() {
       delay(1000);
       break;
     case 51:
-      int counter = 0;
+      counter = 0;
       while (counter++ <= 2)
       {
         digitalWrite(LED_BUILTIN, HIGH);
         delay(1000);
         digitalWrite(LED_BUILTIN, LOW);
         delay(1000);
-        //Serial.println(counter);
       }
       break;
     case 52:
       int sqr = 0;
       sqr = Serial.parseInt();
-      Serial.println(sqr * sqr);
+      Serial.println();
+      Serial.println(sqr * sqr,DEC);
       break;
     }
   }
