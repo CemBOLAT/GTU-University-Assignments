@@ -61,10 +61,10 @@ int main(void)
 
 void    f_square_taken(int  nbr, FILE *ardunio)
 {
-    fflush(stdin);
-    sleep(1);
     int i = 4;
     int ans = 0;
+    fflush(stdin);
+    sleep(5);
     fprintf(ardunio,"%d",nbr);
     fscanf(ardunio,"%d",&ans);
     if (ans == 0 || ans != nbr * nbr)
