@@ -11,7 +11,7 @@ Gebze Tecnical University Coding Assingments for us.
   <tr>
     <td align="center"><b>First Grade</b></td>
     <td align="center"><b>Introduction to Computer Science</b></td>
-    <td align="center"><a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE101/ASGMT1"/>CSE101</td>
+    <td align="center"><a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE101/"/>CSE101</td>
     <td align="center"><a href=""/>CSE102</td>
   <tr>
 </table>
