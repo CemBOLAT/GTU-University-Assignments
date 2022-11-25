@@ -41,8 +41,10 @@ int main(void)
             fprintf(ardunio,"%d",i);
             f_square_taken(sqr,ardunio);
         }
+        else if (i == 5)
+            break;
         else
-            return (0);
+            printf("INVALID OPERATION\n");
         fclose(ardunio);
         sleep(1);
     }
