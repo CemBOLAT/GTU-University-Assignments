@@ -44,6 +44,7 @@ int main(void)
         else
             return (0);
         fclose(ardunio);
+        sleep(1);
     }
     return (0);
 }
