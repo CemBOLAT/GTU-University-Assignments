@@ -15,22 +15,12 @@ int main(void)
     while (1)
     {
         FILE *ardunio = fopen(portName, "w+");
-        printf("\n## WELCOME TO GTU ARDUINO LAB\t\t##\n");
-        printf("## STUDENT NAME: CEMAL BOLAT\t\t##\n");
-        printf("## PLEASE SELECT FROM THE FOLLOWING\t##\n");
-        printf("## MENU: \t\t\t\t##\n");
-        printf("(1) TURN ON LED ON ARDUNIO\n");  
-        printf("(2) TURN OFF LED ON ARDUNIO\n");
-        printf("(3) FLASH ARDUINO LED 3 TIME\n");
-        printf("(4) SEND A NUMBER TO ARDUINO TO COMPUTE SQUARE BY ARDUINO\n");
-        printf("(5) Button press counter (bonus item)\n");
-        printf("(0) EXIT\n");
-        printf("\nPLEASE SELECT: ");
+        f_project_menu();
         scanf("%d", &i);
         printf("\n");
         if (i == 1)
         {
-            printf("(1) TURN ON LED ON ARDUNIO\n");
+             printf("(1) TURN ON LED ON ARDUNIO\n");
             fprintf(ardunio,"%d",i);
         }
         else if (i == 2)
@@ -58,6 +48,20 @@ int main(void)
     return (0);
 }
 
+void	f_project_menu(void)
+{
+	printf("\n## WELCOME TO GTU ARDUINO LAB\t\t##\n");
+        printf("## STUDENT NAME: CEMAL BOLAT\t\t##\n");
+        printf("## PLEASE SELECT FROM THE FOLLOWING\t##\n");
+        printf("## MENU: \t\t\t\t##\n");
+        printf("(1) TURN ON LED ON ARDUNIO\n");  
+        printf("(2) TURN OFF LED ON ARDUNIO\n");
+        printf("(3) FLASH ARDUINO LED 3 TIME\n");
+        printf("(4) SEND A NUMBER TO ARDUINO TO COMPUTE SQUARE BY ARDUINO\n");
+        printf("(5) Button press counter (bonus item)\n");
+        printf("(0) EXIT\n");
+        printf("\nPLEASE SELECT: ");
+}
 void    f_square_taken(int  nbr, FILE *ardunio)
 {
     int i = 4;
