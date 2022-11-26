@@ -45,6 +45,7 @@ int main(void)
             break;
         else
             printf("INVALID OPERATION\n");
+        sleep(1);
         fclose(ardunio);
         sleep(1);
     }
