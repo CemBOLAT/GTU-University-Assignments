@@ -1,5 +1,6 @@
 int operation;
 int counter = 0;
+int controller = 0;
 
 void setup() {
   Serial.begin(9600);
@@ -14,11 +15,11 @@ void loop() {
     switch (operation)
     {
     case 49:
-      digitalWrite(LED_BUILTIN, HIGH);
+      controller = 1;
       delay(1000);
       break;
     case 50:
-      digitalWrite(LED_BUILTIN, LOW);
+      controller = 0;
       delay(1000);
       break;
     case 51:
@@ -38,6 +39,11 @@ void loop() {
       Serial.println(sqr * sqr,DEC);
       break;
     }
+  }
+  if (controller == 1){
+    digitalWrite(LED_BUILTIN, HIGH);
+  }else if (controller == 0)
+    digitalWrite(LED_BUILTIN, LOW);
   }
   delay(5000);
 }
