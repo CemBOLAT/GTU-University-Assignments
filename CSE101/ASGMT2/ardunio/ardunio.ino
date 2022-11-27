@@ -1,6 +1,5 @@
 int operation;
 int counter = 0;
-int controller = 0;
 
 void setup() {
   Serial.begin(9600);
@@ -9,41 +8,37 @@ void setup() {
 
 void loop() {
   if (Serial.available() > 0)
-  {
-    operation = Serial.read();
-    Serial.flush();
-    switch (operation)
     {
-    case 49:
-      controller = 1;
-      delay(1000);
-      break;
-    case 50:
-      controller = 0;
-      delay(1000);
-      break;
-    case 51:
-      counter = 0;
-      while (counter++ <= 2)
-      {
-        digitalWrite(LED_BUILTIN, HIGH);
-        delay(1000);
-        digitalWrite(LED_BUILTIN, LOW);
-        delay(1000);
-      }
-      break;
-    case 52:
-      int sqr = 0;
-      sqr = Serial.parseInt();
-      Serial.println();
-      Serial.println(sqr * sqr,DEC);
-      break;
-    }
-  }
-  if (controller == 1){
-    digitalWrite(LED_BUILTIN, HIGH);
-  }else if (controller == 0)
-    digitalWrite(LED_BUILTIN, LOW);
-  }
-  delay(5000);
+        operation = Serial.read();
+        Serial.flush();
+        switch (operation)
+        {
+        case 49:
+            digitalWrite(LED_BUILTIN, HIGH);
+            delay(1000);    
+            break;
+        case 50:
+            digitalWrite(LED_BUILTIN, LOW);
+            delay(1000);
+            Serial.println(yak);
+            break;
+        case 51:
+            counter = 0;
+            while (counter++ <= 2)
+            {
+                digitalWrite(LED_BUILTIN, HIGH);
+                delay(1000);
+                digitalWrite(LED_BUILTIN, LOW);
+                delay(1000);
+            }
+            break;
+        case 52:
+            int sqr = 0;
+            sqr = Serial.parseInt();
+            Serial.println();
+            Serial.println(sqr * sqr,DEC);
+        break;
+        }
+    } 
+    delay(5000);
 }
