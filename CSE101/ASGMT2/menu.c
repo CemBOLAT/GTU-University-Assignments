@@ -12,9 +12,9 @@ int main(void)
     int sqr;
 
     i = 0;
-    FILE *ardunio = fopen(portName, "w+");
     while (1)
     {
+        FILE *ardunio = fopen(portName, "w+");
         f_project_menu();
         scanf("%d", &i);
         printf("\n");
@@ -46,7 +46,7 @@ int main(void)
         else
             printf("INVALID OPERATION\n");
         sleep(1);
-        fflush(stdin);
+        fclose(ardunio);
         sleep(1);
     }
     return (0);
