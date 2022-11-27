@@ -20,7 +20,6 @@ void loop() {
         case 50:
             digitalWrite(LED_BUILTIN, LOW);
             delay(1000);
-            Serial.println(yak);
             break;
         case 51:
             counter = 0;
