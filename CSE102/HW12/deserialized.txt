@@ -1,0 +1,87 @@
+***************
+type: Asset2
+ival1: 1361536769
+sval1: 1568410886.000000
+ival2: 1036314891
+sval2: 408273969.000000
+***************
+type: Asset3
+string1: XsB3Mdhxbp|UB21&PVz9p;X'g*24Q@u$|qA_||UVKDa<hQ'
+string2: Y4HrO@#Np3j4wmMwm{Xg:K33XJ7KF^F*p17W44lc!9'x4v
+***************
+type: Asset1
+ival: 347604108
+sval: 549008446.000000
+***************
+type: Asset4
+value1: 1092455629.000000
+value2: 930109952.000000
+value3: 825594450.000000
+***************
+type: Asset3
+string1: oEeD+!\_BK7kRu{VWf53<E_v~F^##m1Gb<W:{{^0gFt*~N
+string2: WYM?>zdGV7B ph9nTdt;u;DPF!Ajed|Cl-KSwd[r\*EN{{/
+***************
+type: Asset1
+ival: 340128908
+sval: 149147362.000000
+***************
+type: Asset1
+ival: 1301685455
+sval: 237366821.000000
+***************
+type: Asset4
+value1: 1402470486.000000
+value2: 1736858752.000000
+value3: 393973587.000000
+***************
+type: Asset3
+string1: $h22?im?f*Wnj>`63gzs].DgYr\_4&7eFNb^F'>k.xPBFm]
+string2: NJDA+A4h#/2{,19R~Mm\JR+ud0zQHtts_tHyS}~JzRk\@>
+***************
+type: Asset2
+ival1: 1177147195
+sval1: 527814587.000000
+ival2: 647352377
+sval2: 2018617883.000000
+***************
+type: Asset2
+ival1: 1493169521
+sval1: 1986974578.000000
+ival2: 2004280646
+sval2: 151167284.000000
+***************
+type: Asset2
+ival1: 48780532
+sval1: 1966718381.000000
+ival2: 292020517
+sval2: 657896131.000000
+***************
+type: Asset4
+value1: 162604815.000000
+value2: 1509351680.000000
+value3: 778705697.000000
+***************
+type: Asset4
+value1: 1683341678.000000
+value2: 238356288.000000
+value3: 201721098.000000
+***************
+type: Asset1
+ival: 895779852
+sval: 2142300680.000000
+***************
+type: Asset2
+ival1: 243672269
+sval1: 814081466.000000
+ival2: 1353388234
+sval2: 1499338036.000000
+***************
+type: Asset4
+value1: 383051781.000000
+value2: 2027152640.000000
+value3: 1454388216.000000
+***************
+type: Asset1
+ival: 1438092128
+sval: 800074089.000000
