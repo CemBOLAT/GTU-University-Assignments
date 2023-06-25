@@ -1,0 +1,9 @@
+Name Color Price SerialNumber Quantity
+Masa Yellow 3421.22 768432 123
+Desk Red 54.20 665333 4
+Sofa White 124.50 179265 800
+Armchair Black 85.00 358963 90
+Desk Black 300.00 643289 700
+Bookcase Blue 144.21 758965 65
+Computer Grey 234.22 543123 4
+Name 2 34.00 5 3
