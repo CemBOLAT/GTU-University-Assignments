@@ -1,0 +1,18 @@
+ISBN,Title,Author,Publication Year,Reserved Status
+76,The Starw,11,43,0
+17,The Alchemist,J.K. Rowling,2000,0
+16,Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,0
+15,TTTPOD,J.K. Rowling,2000,0
+14,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,0
+13,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,0
+12,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,0
+11,The Hobbit,J.R.R. Tolkien,1937,0
+10,The Lord of the Rings,J.R.R. Tolkien,1954,1
+9,Beloved,Toni Morrison,2019,0
+7,1984,George Orwell,1949,0
+6,The Color Purple,Alice Walker,1982,1
+5,To Kill a Mockingbird,Harper Lee,1960,0
+4,The Catcher in the Rye,J.D. Salinger,1951,0
+3,The Grapes of Wrath,John Steinbeck,1939,1
+2,The Great Gatsby,F. Scott Fitzgerald,1925,1
+1,ZzZzZzZzZzZ,BBB,2000,0
