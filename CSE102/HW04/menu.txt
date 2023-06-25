@@ -1,0 +1,15 @@
+Product	Price (TL)
+Kebap	75.99
+Mercimek	21.50
+Pizza	120.00
+Pide	40.00
+Pilav	30.00
+Dolma	18.50
+Lahmacun	55.60
+Salata	45.50
+Kola	15.00
+Kahve	50.00
+Ayran	5.00
+Menemen	65.00
+Kazandibi	32.50
+Puding	20.00
