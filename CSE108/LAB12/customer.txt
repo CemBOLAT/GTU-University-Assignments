@@ -1,0 +1,5 @@
+name,age,priority
+Zehra Bilici,24,NORMAL
+Mehmet Burak Koca,26,VIP
+Cemal Bolat,19,NORMAL
+Baris Ozcan,25,VIP
