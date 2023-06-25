@@ -1,0 +1,15 @@
+Name:Hasan,Age:45,Mother:NULL,Father:NULL
+Name:Gül,Age:47,Mother:NULL,Father:NULL
+Name:Ela,Age:42,Mother:Gül,Father:Hasan
+Name:Cemal,Age:44,Mother:Gül,Father:Hasan
+Name:Gamze,Age:40,Mother:NULL,Father:NULL
+Name:Erdem,Age:41,Mother:NULL,Father:NULL
+Name:Ali,Age:41,Mother:Gamze,Father:Cemal
+Name:Jose,Age:41,Mother:Ela,Father:Erdem
+Name:Emine,Age:41,Mother:Ela,Father:Erdem
+Name:Erdim,Age:41,Mother:Ali,Father:Jose
+Name:Yunus,Age:41,Mother:Ali,Father:Jose
+Name:Ismail,Age:8,Mother:Ali,Father:Jose
+Name:Baggage,Age:7,Mother:Gamze,Father:Cemal
+Name:Nurdan,Age:2,Mother:Gamze,Father:Cemal
+Name:Nuran,Age:1,Mother:Gamze,Father:Cemal

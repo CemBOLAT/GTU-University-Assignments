@@ -1,0 +1,6 @@
+Name:Cemal,Age:77,Mother:NULL,Father:NULL
+Name:Ela,Age:66,Mother:NULL,Father:NULL
+Name:Emine,Age:35,Mother:Ela,Father:Cemal
+Name:Şule,Age:35,Mother:Ela,Father:Cemal
+Name:Ismail,Age:40,Mother:NULL,Father:NULL
+Name:Ali,Age:7,Mother:Emine,Father:Ismail
