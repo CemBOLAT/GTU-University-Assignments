@@ -1,0 +1,109 @@
+d2d4
+b8c6
+g1f3
+d7d5
+b1c3
+c8f5
+d1d2
+c6b4
+c3d5
+b4c2 // Check !
+d2c2
+d8d7
+c2b3
+c7c6
+d5f4
+a8d8
+c1e3
+g8h6
+g2g4
+f5g4
+f3e5
+d7c8
+f1h3
+g4f5
+O-O-O
+f5h3
+b3a4
+f7f6
+a4a7
+d8d5
+e5d3
+h3f5
+h1g1
+d5d7
+d3c5
+d7c7
+d1d3
+g7g5
+d3b3
+e7e6
+b3b7
+c7e7
+a7b8
+c8d8
+f4e6
+e7b7
+b8b7
+f5e6
+c5e6
+d8a5
+b7c8 // Check
+a5d8
+c8d8 // Check
+e8f7
+d8d7 // Check
+f7g6
+d7e8 // Check
+g6f5
+e8c6
+h8g8
+g1g5
+g8g5
+e3g5
+h6f7
+a2a4
+f7g5
+c6f3 // Check
+f5g6
+a4a5
+f8g7
+g6g7
+a5a6
+g7g6
+a6a7
+g5f3
+a7a8 // Prom // Queen
+h7h6
+a8h8
+f3g5
+d4d5
+g6f5
+d5d6
+h6h5
+d6d7
+g5f7
+d7d8 // Prom // Queen
+f7h8
+d8a8
+h5h4
+a8h8
+g6g5
+h8g8 // Check
+g5h5
+b2b4
+h4h3
+b4b5
+f5f4
+b5b6
+f4f3
+b6b7
+g8g7
+f3e2
+b7b8
+e2e1 // Prom // Queen
+c1c2
+h4h5
+b8h8
+
+White wins

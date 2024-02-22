@@ -1,0 +1,12 @@
+rnbqkbnr
+pppp...p
+......p.
+......p.
+......p.
+........
+PPPPPPPP
+R...KBNR
+
+White
+
+O-O-O
