@@ -7,4 +7,3 @@ Gebze Tecnical University Coding Assingments for us.
 | **2** | <a href= "https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE102"> CSE102 </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE108"> CSE108 </a> |
 | **3** | <a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE231"> CSE231 </a> | |
 | **4** | <a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE222"> CSE222 </a> |  | <a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE108"> CSE108 (23-24) </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments/tree/master/CSE344"> CSE344 </a>
-
