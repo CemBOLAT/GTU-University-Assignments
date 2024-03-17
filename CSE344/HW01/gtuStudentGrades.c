@@ -18,7 +18,6 @@ static bool isInputValid(char **spInput)
 		}
 		else
 			fprintf(stderr, "Too many arguments are given\n");
-		cb_free2d((void **)spInput);
 		return false;
 	}
 	return true;
@@ -45,7 +44,6 @@ void gtuStudentGrades(char **envp){
 		exit(1);
 	}
 	else if (pid == 0){
-		//char *args[] = {"touch", "grades.txt", NULL};
 		char	*cmdPath = pathFinder(envp, "touch");
 		char	*args[] = {cmdPath, spInput[0], NULL};
 		execve(cmdPath, args, envp);

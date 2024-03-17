@@ -1,7 +1,7 @@
 #pragma once
 
 #ifndef FILENAME
-# define FILENAME "gradest.txt"
+# define FILENAME "grades.txt"
 #endif
 
 typedef struct s_Student {
@@ -14,7 +14,7 @@ void	printInformation();
 void	printUsage();
 void	gtuStudentGrades(char **envp);
 void	addStudentGrade(char **envp);
-void addStudentGrade();
+void	addStudentGrade();
 void	searchStudent();
 void	sortALL();
 void	showAll();
@@ -27,3 +27,4 @@ int		cb_len2d(void **data);
 int		cb_nbrOfWords(char *input, char *delim);
 char	*takeInput(char *message);
 char	**splitInput(char *input, char *delim);
+void	searchStudent(char **env);

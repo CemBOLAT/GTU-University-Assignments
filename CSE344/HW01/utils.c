@@ -11,7 +11,7 @@ void	cb_free(void *data){
 }
 
 void	cb_free2d(void **data){
-	if (data != NULL){
+	if (data || *data != NULL){
 		for (int i = 0; data[i] != NULL; i++){
 			free(data[i]);
 			data[i] = NULL;

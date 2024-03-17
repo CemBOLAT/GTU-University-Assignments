@@ -4,7 +4,6 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-void searchStudent() {}
 void sortALL() {}
 void showAll() {}
 void listGrades() {}
@@ -30,7 +29,7 @@ int main(int argc, char *argv[], char *envp[]) {
 				addStudentGrade(envp);
 				break;
 			case 3:
-				searchStudent();
+				searchStudent(envp);
 				break;
 			case 4:
 				sortALL();

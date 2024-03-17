@@ -21,7 +21,6 @@ static bool isInputValid(char **spInput)
 		{
 			fprintf(stderr, "No grade is given\n");
 		}
-		cb_free2d((void **)spInput);
 		return false;
 	}
 	return true;
@@ -68,8 +67,6 @@ void addStudentGrade(char **envp)
 		exit(1);
 	}
 	else if (pid == 0){
-		char	*cmdPath = pathFinder(envp, "echo");
-		printf("%s\n", cmdPath);
 		char	*convertToADD = cb_concat(spInput);
 		FILE	*file = fopen("grades.txt", "a");
 		if (file == NULL){
