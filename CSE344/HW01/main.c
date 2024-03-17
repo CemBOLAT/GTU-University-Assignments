@@ -2,8 +2,8 @@
 #include <sys/wait.h>
 #include "util.h"
 #include <stdbool.h>
+#include <stdio.h>
 
-void addStudentGrade() {}
 void searchStudent() {}
 void sortALL() {}
 void showAll() {}
@@ -13,6 +13,9 @@ void listSome() {}
 int main(int argc, char *argv[], char *envp[]) {
 	bool isExit = false;
 	int	input;
+	// char	*path = pathFinder(envp, "ls");
+	// printf("%s\n", path);
+	// cb_free((void *)path);
 	printInformation();
 	while (!isExit){
 		input = printMenu();
@@ -24,7 +27,7 @@ int main(int argc, char *argv[], char *envp[]) {
 				gtuStudentGrades(envp);
 				break;
 			case 2:
-				addStudentGrade();
+				addStudentGrade(envp);
 				break;
 			case 3:
 				searchStudent();

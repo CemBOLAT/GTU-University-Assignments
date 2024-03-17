@@ -1,4 +1,6 @@
+#include "util.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 int printMenu()
 {
@@ -51,4 +53,12 @@ void printInformation()
 {
 	printf("This program is written by Cemal BOLAT\n");
 	printf("Student ID: 210104004010\n");
+}
+
+char	*takeInput(char *message){
+	char *input = (char *)malloc(100); // also take spaces
+	printf("%s", message);
+	// scan end of line
+	scanf(" %[^\n]", input);
+	return input;
 }
