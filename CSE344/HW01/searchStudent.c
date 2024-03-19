@@ -12,6 +12,7 @@
 void searchStudent(char **env)
 {
 	char *name = takeInput("Enter the name and surname of the student: ");
+	name = cb_capitalize(name);
 	pid_t pid;
 	int save_stdout, save_stdin;
 	int pipefd[2];
@@ -41,7 +42,7 @@ void searchStudent(char **env)
 			cb_free(name);
 			exit(1);
 		}
-		char *args[] = {path, name, FILENAME, NULL};
+		char *args[] = {path, name, "-w" , FILENAME, NULL};
 		execve(args[0], args, env);
 		exit(1);
 	}
@@ -50,15 +51,23 @@ void searchStudent(char **env)
 		close(pipefd[1]);
 		waitpid(pid, NULL, 0);
 		char infos[1000];
-		if (read(pipefd[0], infos, 1000) == 0)
+		size_t readBytes = read(pipefd[0], infos, 1000);
+		if (readBytes < 0)
 		{
 			fprintf(stderr, "Error while reading from pipe\n");
 			exit(1);
 		}
-		char **lines = splitInput(infos, ",");
-		printf("Name: %s\nGrade: %s", lines[0], lines[1]);
-		cb_free2d((void **)lines);
-		close(pipefd[0]);
+		else if (readBytes == 0)
+		{
+			fprintf(stderr, "No student found with the name %s\n", name);
+			close(pipefd[0]);
+		}
+		else {
+			char **lines = splitInput(infos, ",");
+			printf("Name: %s\nGrade: %s", lines[0], lines[1]);
+			cb_free2d((void **)lines);
+			close(pipefd[0]);
+		}
 	}
 	cb_free(name);
 	dup2(save_stdout, STDOUT_FILENO);

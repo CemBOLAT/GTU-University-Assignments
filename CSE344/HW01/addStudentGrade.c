@@ -23,6 +23,7 @@ static bool isInputValid(char **spInput)
 		}
 		return false;
 	}
+
 	return true;
 }
 
@@ -51,6 +52,17 @@ static char	*cb_concat(char **spInput)
 	return result;
 }
 
+static void configrateInput(char **spInput)
+{
+	int i = 0;
+	while (spInput[i] != NULL)
+	{
+		spInput[i] = cb_trim(spInput[i]);
+		spInput[i] = cb_capitalize(spInput[i]);
+		i++;
+	}
+}
+
 void addStudentGrade(char **envp)
 {
 	pid_t	pid;
@@ -67,10 +79,18 @@ void addStudentGrade(char **envp)
 		exit(1);
 	}
 	else if (pid == 0){
+		configrateInput(spInput);
 		char	*convertToADD = cb_concat(spInput);
+		if (isValidGrade(spInput[cb_len2d((void **)spInput) - 1]) == false){
+			fprintf(stderr, "Invalid grade\n");
+			cb_free(convertToADD);
+			cb_cleanUp(input, spInput);
+			exit(1);
+		}
 		FILE	*file = fopen("grades.txt", "a");
 		if (file == NULL){
 			fprintf(stderr, "File could not be opened\n");
+			cb_free(convertToADD);
 			cb_cleanUp(input, spInput);
 			exit(1);
 		}

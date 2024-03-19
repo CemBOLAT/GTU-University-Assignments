@@ -4,11 +4,6 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-void sortALL() {}
-void showAll() {}
-void listGrades() {}
-void listSome() {}
-
 int main(int argc, char *argv[], char *envp[]) {
 	bool isExit = false;
 	int	input;
@@ -32,16 +27,16 @@ int main(int argc, char *argv[], char *envp[]) {
 				searchStudent(envp);
 				break;
 			case 4:
-				sortALL();
+				sortALL(envp);
 				break;
 			case 5:
-				showAll();
+				showAll(envp);
 				break;
 			case 6:
-				listGrades();
+				listGrades(envp);
 				break;
 			case 7:
-				listSome();
+				listSome(envp);
 				break;
 			case 8:
 				isExit = true;
