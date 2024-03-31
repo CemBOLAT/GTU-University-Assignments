@@ -40,6 +40,7 @@ int	part1(char	str[], int	len)
 		k++;
 	}
 	printf("Minimum number of operation is: %d\n",result);
+	return result;
 }
 
 //===========================================part 2=======================================
