@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Fri Mar 29 13:54:12 2024
+# Make data base, printed on Fri Apr 19 17:11:51 2024
 
 # Variables
 
@@ -31,7 +31,7 @@ CURDIR := /Users/cembolat/Desktop/GTU-University-Assignments
 # makefile
 SHELL = /bin/sh
 # environment
-VSCODE_NLS_CONFIG = {"locale":"tr","osLocale":"tr-tr","availableLanguages":{"*":"tr"},"_languagePackId":"cbdb3552546038fc524e2ef88f2f3534.tr","_translationsConfigFile":"/Users/cembolat/Library/Application Support/Code/clp/cbdb3552546038fc524e2ef88f2f3534.tr/tcf.json","_cacheRoot":"/Users/cembolat/Library/Application Support/Code/clp/cbdb3552546038fc524e2ef88f2f3534.tr","_resolvedLanguagePackCoreLocation":"/Users/cembolat/Library/Application Support/Code/clp/cbdb3552546038fc524e2ef88f2f3534.tr/863d2581ecda6849923a2118d93a088b0745d9d6","_corruptedFile":"/Users/cembolat/Library/Application Support/Code/clp/cbdb3552546038fc524e2ef88f2f3534.tr/corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"tr","osLocale":"tr-tr","availableLanguages":{"*":"tr"},"_languagePackId":"fb39b03a49dcbb6a695c2ef603228cb9.tr","_translationsConfigFile":"/Users/cembolat/Library/Application Support/Code/clp/fb39b03a49dcbb6a695c2ef603228cb9.tr/tcf.json","_cacheRoot":"/Users/cembolat/Library/Application Support/Code/clp/fb39b03a49dcbb6a695c2ef603228cb9.tr","_resolvedLanguagePackCoreLocation":"/Users/cembolat/Library/Application Support/Code/clp/fb39b03a49dcbb6a695c2ef603228cb9.tr/5c3e652f63e798a5ac2f31ffd0d863669328dc4c","_corruptedFile":"/Users/cembolat/Library/Application Support/Code/clp/fb39b03a49dcbb6a695c2ef603228cb9.tr/corrupted.info","_languagePackSupport":true}
 # environment
 _ = /usr/bin/make
 # makefile
@@ -51,9 +51,8 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.MWA6OLp7IF/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.rMBVcIFD4H/Listeners
 # automatic
- 
 %F = $(notdir $%)
 # environment
 PWD = /Users/cembolat/Desktop/GTU-University-Assignments
@@ -70,7 +69,7 @@ HOME = /Users/cembolat
 # default
 MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/cembolat/Library/Application Support/Code/CachedData/863d2581ecda6849923a2118d93a088b0745d9d6
+VSCODE_CODE_CACHE_PATH = /Users/cembolat/Library/Application Support/Code/CachedData/5c3e652f63e798a5ac2f31ffd0d863669328dc4c
 # environment
 LOGNAME = cembolat
 # environment
@@ -104,7 +103,7 @@ TMPDIR = /var/folders/fl/4cbxkn7160543t0kxp8dwt5r0000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/cembolat/Library/Application Support/Code/1.87-main.sock
+VSCODE_IPC_HOOK = /Users/cembolat/Library/Application Support/Code/1.88-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -114,7 +113,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.22312734.22312740
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.23185287.23185293
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -146,7 +145,7 @@ CLICOLOR = 1
 # environment
 LANG = C
 # environment
-VSCODE_PID = 19875
+VSCODE_PID = 86462
 # variable set hash-table stats:
 # Load=66/1024=6%, Rehash=0, Collisions=1/87=1%
 
@@ -156,7 +155,7 @@ VSCODE_PID = 19875
 
 # Directories
 
-# . (device 16777231, inode 22453439): 14 files, no impossibilities.
+# . (device 16777232, inode 22453439): 14 files, no impossibilities.
 
 # 14 files, no impossibilities in 1 directories.
 
@@ -194,7 +193,6 @@ Makefile:
 # Not a target:
 makefile:
 #  A default, MAKEFILES, or -include/sinclude makefile.
- 
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has been updated.
@@ -231,6 +229,6 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Fri Mar 29 13:54:12 2024
+# Finished Make data base on Fri Apr 19 17:11:51 2024
 
  
