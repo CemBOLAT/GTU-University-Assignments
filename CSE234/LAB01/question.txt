@@ -1,0 +1,6 @@
+The problem is to show how many ones (1s) a given number contains by looking at its bits.
+The given number is 4-bits and is taken by switches on FPGA.
+If the given number contains an odd number of 1s the led should be on, otherwise, the LED is off.
+
+For example; input:0010 then this number contains only one 1, so the output led is on.
+Input:0011, this number contains two 1s, so this is an even number, the led is off.
