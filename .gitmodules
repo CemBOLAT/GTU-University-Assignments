@@ -1,3 +1,9 @@
 [submodule "CSE231/HW02"]
 	path = CSE231/HW02
 	url = git@github.com:CemBOLAT/rshell.git
+[submodule "CSE241/HW02"]
+	path = CSE241/HW02
+	url = git@github.com:CemBOLAT/rshell.git
+[submodule "CSE222"]
+	path = CSE222
+	url = git@github.com:CemBOLAT/DataStructuresAndAlgorithms.git
