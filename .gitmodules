@@ -7,3 +7,6 @@
 [submodule "CSE222"]
 	path = CSE222
 	url = git@github.com:CemBOLAT/DataStructuresAndAlgorithms.git
+[submodule "CSE341 - Programming Languages"]
+	path = CSE341 - Programming Languages
+	url = https://github.com/CemBOLAT/Common-Lisp-Exercises.git
