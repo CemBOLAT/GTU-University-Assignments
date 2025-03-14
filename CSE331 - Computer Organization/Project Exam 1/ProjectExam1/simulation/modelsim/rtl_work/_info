@@ -1,0 +1,229 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/cemal/Desktop/ProjectExam1/simulation/modelsim
+vadder_32bit
+Z1 !s110 1732782246
+!i10b 1
+!s100 5PjIJL@UWfT?:>DONn;7d2
+I=GW^A]h8D_FE;T8ZZNUZS3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1732576982
+8C:/Users/cemal/Desktop/ProjectExam1/adder_32bit.v
+FC:/Users/cemal/Desktop/ProjectExam1/adder_32bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1732782246.000000
+!s107 C:/Users/cemal/Desktop/ProjectExam1/adder_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/adder_32bit.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/cemal/Desktop/ProjectExam1
+Z7 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 L]<@M@Kj3;zG;bnXPZhTM2
+IPKE>8JGlUmASGh1>H@SX@0
+R2
+R0
+w1732578784
+8C:/Users/cemal/Desktop/ProjectExam1/alu.v
+FC:/Users/cemal/Desktop/ProjectExam1/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cemal/Desktop/ProjectExam1/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/alu.v|
+!i113 1
+R5
+R6
+R7
+valu_tb
+!s110 1732782256
+!i10b 1
+!s100 _1fKC<PzT20bKA5z;^CJk3
+IoI5V55Foj1DV5`3aagoYz0
+R2
+R0
+w1732579258
+8C:/Users/cemal/Desktop/ProjectExam1/alu_tb.v
+FC:/Users/cemal/Desktop/ProjectExam1/alu_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1732782256.000000
+!s107 C:/Users/cemal/Desktop/ProjectExam1/alu_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/cemal/Desktop/ProjectExam1/alu_tb.v|
+!i113 1
+o-work work
+R7
+vbitwise_and
+R1
+!i10b 1
+!s100 kLkCmG7D[_ZT2HSg:5]a`3
+IV4_SXBBMP35Bo9Vj7@>gO3
+R2
+R0
+w1732572476
+8C:/Users/cemal/Desktop/ProjectExam1/bitwise_and.v
+FC:/Users/cemal/Desktop/ProjectExam1/bitwise_and.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1732782245.000000
+!s107 C:/Users/cemal/Desktop/ProjectExam1/bitwise_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/bitwise_and.v|
+!i113 1
+R5
+R6
+R7
+vbitwise_nor
+Z9 !s110 1732782245
+!i10b 1
+!s100 =CHK_WUELPf`]1P?``fn01
+I_V5U?CTkIZ6j80eBKE6Q90
+R2
+R0
+w1732578675
+8C:/Users/cemal/Desktop/ProjectExam1/bitwise_nor.v
+FC:/Users/cemal/Desktop/ProjectExam1/bitwise_nor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/bitwise_nor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/bitwise_nor.v|
+!i113 1
+R5
+R6
+R7
+vbitwise_or
+R9
+!i10b 1
+!s100 Jf]zFD3@eL@1dE:K68mh<2
+IXR0;`3dJ[^2Q^dL>j[J?h2
+R2
+R0
+w1732572503
+8C:/Users/cemal/Desktop/ProjectExam1/bitwise_or.v
+FC:/Users/cemal/Desktop/ProjectExam1/bitwise_or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/bitwise_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/bitwise_or.v|
+!i113 1
+R5
+R6
+R7
+vbitwise_xor
+R9
+!i10b 1
+!s100 _G3<<BO16Oof=;_X^7laC3
+IV]MDnzH^z>Y1VQ85^RAO@1
+R2
+R0
+w1732572526
+8C:/Users/cemal/Desktop/ProjectExam1/bitwise_xor.v
+FC:/Users/cemal/Desktop/ProjectExam1/bitwise_xor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/bitwise_xor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/bitwise_xor.v|
+!i113 1
+R5
+R6
+R7
+vfull_adder
+R9
+!i10b 1
+!s100 B9=B_ld3`^EXz3=iaKjXZ1
+I8WHA;Lc8;X4M?:97][J2E0
+R2
+R0
+w1732782115
+8C:/Users/cemal/Desktop/ProjectExam1/full_adder.v
+FC:/Users/cemal/Desktop/ProjectExam1/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/full_adder.v|
+!i113 1
+R5
+R6
+R7
+vmux_8to1
+R9
+!i10b 1
+!s100 @NnzY?4koFg;im^nNLa081
+IQAh2V[>4aibX4Ghd;>cWR0
+R2
+R0
+w1732575460
+8C:/Users/cemal/Desktop/ProjectExam1/mux_8to1.v
+FC:/Users/cemal/Desktop/ProjectExam1/mux_8to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/mux_8to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/mux_8to1.v|
+!i113 1
+R5
+R6
+R7
+vsubtractor_32bit
+R9
+!i10b 1
+!s100 A1L`oja[bS7d3G8Xn@DRD3
+IDbh:55L`]ziBEaOzoYR:i2
+R2
+R0
+w1732782233
+8C:/Users/cemal/Desktop/ProjectExam1/subtractor_32bit.v
+FC:/Users/cemal/Desktop/ProjectExam1/subtractor_32bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cemal/Desktop/ProjectExam1/subtractor_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/cemal/Desktop/ProjectExam1|C:/Users/cemal/Desktop/ProjectExam1/subtractor_32bit.v|
+!i113 1
+R5
+R6
+R7

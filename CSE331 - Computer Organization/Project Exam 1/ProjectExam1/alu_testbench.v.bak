@@ -1,0 +1,31 @@
+module alu_testbench();
+
+	reg [31:0]a,b;
+	reg [3:0]opcode;
+	wire [31:0]result;
+	
+	initial
+	begin
+	
+	a=10; b=10; opcode = 3'b000; // add;
+	#20;
+	a=10; b=10; opcode = 3'b001; // sub;
+	#20;
+	a=32'hffffffff; b=1'0; opcode = 3'b010; // and;
+	#20;
+	a=32'hffffffff; b=1'0; opcode = 3'b011; // or;
+	#20;
+	a=32'hffffffff; b=1'0; opcode = 3'b100; // xor;
+	#20;
+	a=32'hffffffff; b=1'0; opcode = 3'b101; // nor;
+	#20;
+	end
+	
+	
+	initial
+	begin
+		$monitor("time: %0t, a: %d, b: %d, opcode: %d, result: %d", $time, a,b,opcode, result);
+	end
+
+endmodule
+

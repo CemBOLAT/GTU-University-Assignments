@@ -1,0 +1,193 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/cemal_bolat/simulation/modelsim
+vAluModule
+Z1 !s110 1734596919
+!i10b 1
+!s100 lSzFFT>HH<J4gS0dFV;RT3
+IR]]6I8gbM_hD2e18DDG]Z3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1734593875
+8C:/Users/user/Desktop/cemal_bolat/AluModule.v
+FC:/Users/user/Desktop/cemal_bolat/AluModule.v
+L0 4
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1734596919.000000
+!s107 C:/Users/user/Desktop/cemal_bolat/AluModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/AluModule.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/user/Desktop/cemal_bolat
+Z8 tCvgOpt 0
+n@alu@module
+vControlUnit
+R1
+!i10b 1
+!s100 R<FCI4Cj2WDz>25ni]mTX2
+I60EfaKFn1C`Ej:g8B6MA@0
+R2
+R0
+w1734596289
+8C:/Users/user/Desktop/cemal_bolat/ControlUnit.v
+FC:/Users/user/Desktop/cemal_bolat/ControlUnit.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/cemal_bolat/ControlUnit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/ControlUnit.v|
+!i113 1
+R6
+R7
+R8
+n@control@unit
+vDataMemory
+Z9 !s110 1734596920
+!i10b 1
+!s100 G3SBBo2f:C<2Ok^o;Al`P0
+I;PFz3CC0She08fPOo34R61
+R2
+R0
+R3
+8C:/Users/user/Desktop/cemal_bolat/DataMemory.v
+FC:/Users/user/Desktop/cemal_bolat/DataMemory.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1734596920.000000
+!s107 C:/Users/user/Desktop/cemal_bolat/DataMemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/DataMemory.v|
+!i113 1
+R6
+R7
+R8
+n@data@memory
+vInstructionFetch
+R9
+!i10b 1
+!s100 GibXF:[hO`h@2OYOX;^mT1
+IPzQ>RoA4B7>GYXVS@nPQS1
+R2
+R0
+R3
+8C:/Users/user/Desktop/cemal_bolat/InstructionFetch.v
+FC:/Users/user/Desktop/cemal_bolat/InstructionFetch.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/cemal_bolat/InstructionFetch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/InstructionFetch.v|
+!i113 1
+R6
+R7
+R8
+n@instruction@fetch
+vPcModule
+R1
+!i10b 1
+!s100 9L1e2`UO]02cl<DZ7RH9<2
+II@00Z<05i3BGhc@_BI^gW2
+R2
+R0
+R3
+8C:/Users/user/Desktop/cemal_bolat/PcModule.v
+FC:/Users/user/Desktop/cemal_bolat/PcModule.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/cemal_bolat/PcModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/PcModule.v|
+!i113 1
+R6
+R7
+R8
+n@pc@module
+vRegisterFile
+R1
+!i10b 1
+!s100 A:<d:W=TUSkR^A=WS5jYb2
+IamZYim6`F4I]MPU9@C0@>3
+R2
+R0
+R3
+8C:/Users/user/Desktop/cemal_bolat/RegisterFile.v
+FC:/Users/user/Desktop/cemal_bolat/RegisterFile.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/cemal_bolat/RegisterFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/RegisterFile.v|
+!i113 1
+R6
+R7
+R8
+n@register@file
+vSingleCycleMIPS
+R1
+!i10b 1
+!s100 CHioYcZafZnDcnXboCHHE1
+I7@IoRzD;H`:b=h0hdgG?Z0
+R2
+R0
+w1734595830
+8C:/Users/user/Desktop/cemal_bolat/SingleCycleMIPS.v
+FC:/Users/user/Desktop/cemal_bolat/SingleCycleMIPS.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/cemal_bolat/SingleCycleMIPS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/user/Desktop/cemal_bolat|C:/Users/user/Desktop/cemal_bolat/SingleCycleMIPS.v|
+!i113 1
+R6
+R7
+R8
+n@single@cycle@m@i@p@s
+vTb
+!s110 1734596971
+!i10b 1
+!s100 =Ud3U:YAU@;2]nRAQbK[A3
+I65Q]2O2FD04A0o2IA2nRV0
+R2
+R0
+R3
+8C:/Users/user/Desktop/cemal_bolat/Tb.v
+FC:/Users/user/Desktop/cemal_bolat/Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1734596971.000000
+!s107 C:/Users/user/Desktop/cemal_bolat/Tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/cemal_bolat/Tb.v|
+!i113 1
+o-work work
+R8
+n@tb

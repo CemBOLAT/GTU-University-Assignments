@@ -1,0 +1,5 @@
+a-> substraction results are incorrect.
+b-> f - 1 must bu e but it was ffffffed before fixing
+c-> substraction the results are computed in unsigned integer form but we cannot represent negative numbers with unsigned form so that I changed my input and output wires as 'input signed' and 'output signed'
+	also in substraction after inverting in b we should use 1 as a cin bit for adder
+		nor operation: on the 10'th bit we use (!a & !b) its not a mistake but using (a + b)! which is nor gate is better for nor operations
