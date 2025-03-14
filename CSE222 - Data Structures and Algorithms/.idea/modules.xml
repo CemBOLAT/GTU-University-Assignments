@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+	<modules>
+	  <module fileurl="file://$PROJECT_DIR$/DATAS/LINK-LIST/ArrayLIST/ArrayLIST.iml" filepath="$PROJECT_DIR$/DATAS/LINK-LIST/ArrayLIST/ArrayLIST.iml" />
+	  <module fileurl="file://$PROJECT_DIR$/DATAS/DATAS.iml" filepath="$PROJECT_DIR$/DATAS/DATAS.iml" />
+	  <module fileurl="file://$PROJECT_DIR$/JavaC.iml" filepath="$PROJECT_DIR$/JavaC.iml" />
+	  <module fileurl="file://$PROJECT_DIR$/DATAS/LINK-LIST/LINK-LIST.iml" filepath="$PROJECT_DIR$/DATAS/LINK-LIST/LINK-LIST.iml" />
+	</modules>
+  </component>
+</project>

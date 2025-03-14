@@ -1,0 +1,28 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/cembolat/Desktop/JavaC/HW03'
+javac -classpath . AbsDevice.java
+ 
+javac -classpath . Device.java
+ 
+javac -classpath . Headphones.java
+ 
+javac -classpath . Inventory.java
+ 
+javac -classpath . Laptop.java
+ 
+javac -classpath . Main.java
+ 
+javac -classpath . Printer.java
+ 
+javac -classpath . Tablet.java
+ 
+javac -classpath . Tv.java
+ 
+echo "\033[0;31m"
+cat Readme
+echo "\033[0m"
+echo "\033[0;32mThe Inventory Management System has been created by Cemal BOLAT.\nStudent No: 210104004010\033[0m"
+ 
+echo "\033[0;33mmake | run | doc | clean | cleandoc | re | redoc | fclean | readme\033[0m"
+make: Leaving directory `/Users/cembolat/Desktop/JavaC/HW03'
+ 

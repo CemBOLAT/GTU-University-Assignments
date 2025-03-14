@@ -1,0 +1,1 @@
+{"buildTargets":[".PHONY","AbsDevice.class","Device.class","Headphones.class","Inventory.class","Laptop.class","Main.class","Printer.class","Tablet.class","Tv.class","all","clean","cleandoc","doc","fclean","re","readme","redoc","run"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

@@ -1,0 +1,16 @@
+Electronics Shop Inventory Report
+Generated on: 25th March 2024
+
+| No. | Category   | Name | Price | Quantity |
+-------------------------------------------------
+| 1   | Tablet	 | Xiaomi | $100,00 | 2 |
+| 2   | Tv		 | Arcelik | $50,00 | 10 |
+| 3   | Tv		 | ViewSonic | $25,00 | 4 |
+| 4   | Headphones | Apple Airpods 3 | $1500,00 | 20 |
+
+Summary:
+- Total Number of Devices: 4
+- Total Inventory Value:  $30.800
+
+End of Report
+-----------------------------

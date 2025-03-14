@@ -1,0 +1,2 @@
+I have added also a new feature to inventory that is saving to txt file except than export to make it easy to work.
+I also importing from it at the begining. The default file name is 'inventory.txt' and 'export.txt' is the one for exporting to file.

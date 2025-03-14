@@ -1,0 +1,437 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+
+# Make data base, printed on Sun May 19 19:29:01 2024
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# makefile (from `makefile', line 5)
+SRC := AVLTree.java GUIVisualization.java Main.java RandomInputGenerator.java Stock.java StockDataManager.java
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile
+CURDIR := /Users/cembolat/Desktop/JavaC/HW07
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"tr","osLocale":"tr-tr","availableLanguages":{"*":"tr"},"_languagePackId":"401345062f27bda2e008ec6148d76534.tr","_translationsConfigFile":"/Users/cembolat/Library/Application Support/Code/clp/401345062f27bda2e008ec6148d76534.tr/tcf.json","_cacheRoot":"/Users/cembolat/Library/Application Support/Code/clp/401345062f27bda2e008ec6148d76534.tr","_resolvedLanguagePackCoreLocation":"/Users/cembolat/Library/Application Support/Code/clp/401345062f27bda2e008ec6148d76534.tr/dc96b837cf6bb4af9cd736aa3af08cf8279f7685","_corruptedFile":"/Users/cembolat/Library/Application Support/Code/clp/401345062f27bda2e008ec6148d76534.tr/corrupted.info","_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# makefile (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# environment
+__CFBundleIdentifier = com.microsoft.VSCode
+# environment
+INFOPATH = /opt/homebrew/share/info:
+# environment
+VSCODE_CWD = /
+# environment
+PATH = /usr/local/opt/openjdk@20/bin:/usr/local/opt/openjdk@16/bin:/usr/local/opt/openjdk@16/bin:/usr/local/opt/openjdk@16/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+# environment
+LSCOLORS = ExFxCxDxBxegedabagacad
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.rMBVcIFD4H/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+PWD = /Users/cembolat/Desktop/JavaC/HW07
+# environment
+HOMEBREW_CELLAR = /opt/homebrew/Cellar
+# makefile (from `makefile', line 2)
+JD := javadoc
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+MANPATH = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/man:/Library/Developer/CommandLineTools/usr/share/man:/Library/Developer/CommandLineTools/Toolchains/XcodeDefault.xctoolchain/usr/share/man:/opt/homebrew/share/man::
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /Users/cembolat
+# default
+MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/cembolat/Library/Application Support/Code/CachedData/dc96b837cf6bb4af9cd736aa3af08cf8279f7685
+# environment
+LOGNAME = cembolat
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# makefile (from `makefile', line 6)
+CLASSES := AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# makefile (from `makefile', line 1)
+JFLAGS := -classpath .
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+XPC_FLAGS = 0x0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = cembolat
+# makefile
+.DEFAULT_GOAL := all
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/fl/4cbxkn7160543t0kxp8dwt5r0000gn/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/cembolat/Library/Application Support/Code/1.89-main.sock
+# environment
+MallocNanoZone = 0
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.24955631.24955637
+# environment
+HOMEBREW_PREFIX = /opt/homebrew
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+HOMEBREW_REPOSITORY = /opt/homebrew
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F5:0x23:0x18
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# makefile (from `makefile', line 3)
+JDOCFLAGS := -protected -splitindex -use -author -version -d ./javadoc
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# default
+.INCLUDE_DIRS = /usr/local/include
+# environment
+MAKELEVEL := 0
+# environment
+CLICOLOR = 1
+# environment
+LANG = C
+# environment
+VSCODE_PID = 40083
+# variable set hash-table stats:
+# Load=71/1024=7%, Rehash=0, Collisions=2/101=2%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 16777232, inode 25579383): 20 files, no impossibilities.
+
+# 20 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+%.class: %.java
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+# 1 implicit rules, 0 (0.0%) terminal.
+
+# Files
+
+GUIVisualization.class: GUIVisualization.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `GUIVisualization'
+#  Last modified 2024-05-19 19:20:30
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+redoc: cleandoc doc
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+all: AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+#  Phony target (prerequisite of .PHONY).
+#  Command-line target.
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: `'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := all
+# automatic
+# % := 
+# automatic
+# * := 
+# automatic
+# + := AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+# automatic
+# | := 
+# automatic
+# < := AVLTree.class
+# automatic
+# ^ := AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+# automatic
+# ? := AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/10=10%
+#  commands to execute (from `makefile', line 9):
+	@echo "\033[0;32mThe Stock Management System has been created by Cemal BOLAT.\nStudent No: 210104004010\033[0m"
+	@echo "\033[0;34mDefault run option is with using 'input.txt' file.\033[0m"
+	@echo "\033[0;33mmake | doc | clean | cleandoc | re | redoc | fclean | run\033[0m"
+	
+
+.PHONY: all run doc clean cleandoc re redoc fclean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+StockDataManager.class: StockDataManager.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `StockDataManager'
+#  Last modified 2024-05-19 16:26:10
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+# Not a target:
+Main.java:
+ 
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 19:28:06
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+cleandoc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 28):
+	@rm -rf ./javadoc
+	@echo "\033[0;31mThe documentation has been removed.\033[0m"
+	
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GUIVisualization.java:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 19:20:00
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 18:27:18
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+StockDataManager.java:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 16:24:59
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+fclean: clean cleandoc
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+Stock.class: Stock.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `Stock'
+#  Last modified 2024-05-19 16:28:27
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+AVLTree.class: AVLTree.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `AVLTree'
+#  Last modified 2024-05-19 18:24:17
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+re: clean all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+run: AVLTree.class GUIVisualization.class Main.class RandomInputGenerator.class Stock.class StockDataManager.class
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 14):
+	@java $(JFLAGS) Main input.txt
+	
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 24):
+	@rm -f $(CLASSES)
+	@echo "\033[0;31mAll class files have been removed.\033[0m"
+	
+
+# Not a target:
+RandomInputGenerator.java:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 18:30:38
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+Stock.java:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 16:27:59
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+RandomInputGenerator.class: RandomInputGenerator.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `RandomInputGenerator'
+#  Last modified 2024-05-19 18:31:43
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+# Not a target:
+AVLTree.java:
+#  Implicit rule search has been done.
+#  Last modified 2024-05-19 18:23:53
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+doc: AVLTree.java GUIVisualization.java Main.java RandomInputGenerator.java Stock.java StockDataManager.java
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 20):
+	@javadoc $(JDOCFLAGS) $(SRC)
+	@echo "\033[0;32mThe documentation has been created successfully.\033[0m"
+	
+
+Main.class: Main.java
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `Main'
+#  Last modified 2024-05-19 19:28:11
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `makefile', line 17):
+	@javac $(JFLAGS) $<
+	
+
+# files hash-table stats:
+# Load=24/1024=2%, Rehash=0, Collisions=4/88=5%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Sun May 19 19:29:01 2024
+
+ 
