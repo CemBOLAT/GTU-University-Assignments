@@ -1,0 +1,786 @@
+Begin Data Section
+# Special registers
+0 140           # PC
+1 950           # SP
+2 0             # syscall result
+3 0             # of instructions executed
+4 0             # of instruction executrd for the current thread
+5 0             # temp register
+6 0             # temp register
+7 0             # temp register
+8 0             # temp register
+9 0             # temp register
+10 0            # temp register
+11 0            # temp register
+12 0            # temp register
+13 0            # temp register
+14 0            # temp register
+15 0            # temp register
+16 0            # temp register
+17 0            # temp register
+18 0
+19 0
+20 0 			# Return value from function
+
+# OS Variables - Using lower addresses for OS data
+
+21 0           	# Current running thread ID (0 = OS (1 - 10 = user threads))
+22 10           # Number of active threads (init it wtih 10) (when it is 0, halt the cpu)
+23 50           # Thread table offset, thread table size is 40.
+24 0            # last executed thread id
+25 0            # next executed thread id
+26 0            # Using this for CPYI2 indirect ref
+27 0            # Using this for CPYI2 indirect ref
+
+30 0 			# temp register
+
+994 0            # temp register for user comment
+995 0            # temp register for returning address after function call 
+996 0            # always 0, easy to use for JIF
+997 0            # Current thread ID (used in context switching)
+998 0            # thread table offset of next instruction
+999 0            # Current time (used for start time of threads)
+
+# Thread Table (starts at address 50) (40 bytes per thread)
+# Thread 0 (OS)
+50 0            # Thread ID = 0 (OS)
+51 0            # Start time
+52 0            # Execution count
+53 1            # Thread state (1 = running)
+54 100          # PC - OS init code
+56 0            # Block counter (for blocked threads in SYSCALL PRN)
+
+61 950          # sp temp 
+
+# Additional thread data (addresses 60-80) is reserved for register of this thread
+# (81-89 reserved for future extensions)
+
+# Thread 1
+90 1            # Thread ID = 1
+91 0            # Start time (will be set when thread first runs)
+92 0            # Execution count
+93 0            # Thread state (0 = ready)
+94 1000         # PC
+96 0            # Block counter (for blocked threads in SYSCALL PRN)
+
+101 1900        # sp temp
+
+# Additional thread data (addresses 90-119) reserved for register of this thread
+# (120-129 reserved for future extensions)
+
+# Thread 2
+130 2           # Thread ID = 2
+131 0           # Start time (will be set when thread first runs)
+132 0           # Execution count
+133 0           # Thread state (0 = ready)
+134 2000        # PC
+136 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+141 2900        # sp temp
+
+# Additional thread data (addresses 140-160) reserved for register of this thread
+# (161-169 reserved for future extensions)
+
+# Thread 3
+170 3           # Thread ID = 3
+171 0           # Start time
+172 0           # Execution count
+173 0           # Thread state (0 = ready)
+174 3000        # PC
+176 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+181 3900        # sp temp
+
+# Additional thread data (addresses 180-200) reserved for register of this thread
+# (201-209 reserved for future extensions)
+
+# Thread 4
+210 4           # Thread ID = 4
+211 0           # Start time
+212 0           # Execution count
+213 0           # Thread state (0 = ready)
+214 4000        # PC
+216 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+221 4900        # sp temp
+
+# Additional thread data (addresses 220-240) reserved for register of this thread
+# (241-249 reserved for future extensions)
+
+# Thread 5
+250 5           # Thread ID = 5
+251 0           # Start time
+252 0           # Execution count
+253 0           # Thread state (0 = ready)
+254 5000        # PC
+256 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+261 5900        # sp temp
+
+# Additional thread data (addresses 260-280) reserved for register of this thread
+# (281-289 reserved for future extensions)
+
+# Thread 6
+290 6           # Thread ID = 6
+291 0           # Start time
+292 0           # Execution count
+293 0           # Thread state (0 = ready)
+294 6000        # PC
+296 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+301 6900        # sp temp
+
+# Additional thread data (addresses 300-320) reserved for register of this thread
+# (321-329 reserved for future extensions)
+
+# Thread 7
+330 7           # Thread ID = 7
+331 0           # Start time
+332 0           # Execution count
+333 0           # Thread state (0 = ready)
+334 7000        # PC
+336 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+341 7900        # sp temp
+
+# Additional thread data (addresses 340-360) reserved for register of this thread
+# (361-369 reserved for future extensions)
+
+# Thread 8
+370 8           # Thread ID = 8
+371 0           # Start time
+372 0           # Execution count
+373 0           # Thread state (0 = ready)
+374 8000        # PC
+376 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+381 8900        # sp temp
+
+# Additional thread data (addresses 380-400) reserved for register of this thread
+# (401-409 reserved for future extensions)
+
+# Thread 9
+410 9           # Thread ID =  9
+411 0           # Start time
+412 0           # Execution count
+413 0           # Thread state (0 = ready)
+414 9000        # PC
+416 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+421 9900        # sp temp
+
+# Additional thread data (addresses 420-440) reserved for register of this thread
+# (441-449 reserved for future extensions)
+
+# Thread 10
+450 10          # Thread ID = 10
+451 0           # Start time
+452 0           # Execution count
+453 0           # Thread state (0 = ready)
+454 10000       # PC
+456 0           # Block counter (for blocked threads in SYSCALL PRN)
+
+461 10900       # sp temp
+
+# Additional thread data (addresses 460-480) reserved for register of this thread
+# (481-489 reserved for future extensions)
+
+# =========== END FOR THREAD TABLE 490
+
+# First threads data - Sorting in increasing order
+1000 10        # N
+1001 49         # arr[0]
+1002 780        # arr[1]
+1003 -1         # arr[2]
+1004 92        # arr[3]
+1005 37         # arr[4]
+1006 64        # arr[5]
+1007 55         # arr[6]
+1008 28         # arr[7]
+1009 9        # arr[8]
+1010 -222      # arr[9]
+
+1100 0   # i
+1101 0   # j
+1102 0   # addr_curr
+1103 0   # addr_next
+1104 0   # val_curr
+1105 0   # val_next/tmp
+1111 0   # tmp_val
+1112 0   # src_ptr
+1113 0   # dst_ptr
+1121 0   # temp
+1122 0   # temp
+1123 0   # temp
+1124 0   # temp
+1125 0   # temp
+
+# Second thread data - Searching for a key in an array
+# Return the index of the key if found, otherwise return -1
+2000 0       # counter (index)
+2001 7       # number of elements
+2002 2050    # array start address
+2003 10      # key to search
+2050 12      # First element
+2051 13      # Second element
+2052 14      # Third element
+2053 15      # Fourth element
+2054 17      # Fifth element
+2055 18      # Sixth element
+2056 19      # Seventh element
+
+# Third thread data - Printing numbers
+3000 0      # counter
+3001 10     # number of elements to print
+3002 3050   # array start address
+3050 21      # First number
+3051 22      # Second number
+3052 23      # Third number
+3053 24      # Fourth number
+3054 25      # Fifth number
+3055 26     # Sixth number
+3056 27     # Seventh number
+3057 28     # Eighth number
+3058 21     # Ninth number
+3059 20     # Tenth number
+
+# Fourth thread data - Positive Multiply function
+4000 6     # muliplicand (base)
+4001 5      # multiplier (exponent)
+4002 0      # result (initially 1) (30)
+
+# Fifth thread data - Sum till 0
+#5000 10     # i (10 + 9 + 8 + ... + 1)
+5000 9       # i (8 + 7 + 6 + ... + 1) : 36
+
+# Sixth thread data - Usage of CALL and RET functions
+6000 17     # i
+6001 25     # j
+6002 0      # sum = i + j (init it as 0)
+
+# Seventh thread data - Usage of PUSH and POP functions
+7000 60     # i
+7001 0      # sum = 0 (init it as 0)
+
+End Data Section
+# --------------------
+Begin Instruction Section
+# OS Initialization Code (starts at 140 - OS entry point PC init as 140)
+# Thread table starts at 50, each thread occupies 40 bytes.
+# Table initialized with 10 threads so start scheduling from thread 1 (ID 1) to thread 10 (ID 10).
+
+# Each section is organized with space for expansion
+# Data Section:
+# 20-50: Special registers && 990-999: Special registers
+# 50-490: Thread table (10 threads, each 40 bytes)
+# 1000-1100: First thread data (sorting)
+# 2000-2100: Second thread data (searching)
+# 3000-3100: Third thread data (printing numbers)
+
+# Instruction Section:
+# Round Robin Scheduler
+# Steps:
+# 1. Make current thread state as ready
+# 2. Save registers of current thread
+# 3. If no active threads, halt
+# 4. Check next thread ID is valid (0-10)
+# 5. Find next thread offset and save it into X23
+# 6. Check if next thread status is ready, if not skip
+
+# Round Robin Scheduler
+# Steps:
+# 1. Make current thread state as ready
+# 2. Save registers of current thread
+# 3. If no active threads, halt
+# 4. Check next thread ID is valid (0-10)
+# 5. Find next thread offset and save it into X23
+# 6. Check if next thread status is ready, if not skip
+
+# (state: ready, running, halt, blocked (unblocked))
+
+#  Step1: Make current thread state as ready
+109 SET 112 995  # set return address to 112
+110 CPY 21 997   # copy current thread ID to X998
+111 SET 650 0    # call function 
+112 CPY 23 32    # Copy base address of thread table to X32
+113 ADD 32 3     # X32 = base + 3 (address of thread state)
+114 SET 0 33     # X33 = (0) for the thread
+115 SET 33 34    # X34 = X33
+116 CPYI2 34 32  # Set thread state to READY (0)
+
+
+# Step2: Save registers of current thread
+130 CPY 21 24   # set last executed instruction
+131 SET 140 995 # after function call return to 140
+132 SET 520 0   # jump to save register function
+133 SET 0 21    # set OS as current running
+134 SET 50 23   # set offset of OS thread table
+
+# Load registers of OS thread
+140 SET 150 995 # set return address to 150
+141 SET 570 0   # jump to function
+
+# Check active threads
+150 JIF 22 480  # if no active threads, halt the cpu
+151 JIF 996 160
+
+# Step3: Check next thread ID is valid (0-10)
+160 SET 11 30   # Set 31th register to 11 (max thread ID) 	  	   
+161 CPY 24 32   # X32 = last executed thread id
+162 ADD 32 1    # X32 = last executed thread id + 1
+163 SUBI 30 32 	# X32 = X31 - X32 , if <= 0 then we exceed the threads table
+164 JIF 32 201  # jump to next thread calculator (circular array logic)
+
+# Step4: Find next thread offset and save it into X23
+170 CPY 24 25   # X25 = last executed thread id (next = last + 1)
+171 ADD 25 1    # X25 = last executed thread id + 1
+172 CPY 25 997   # FIND OFFSET OF X25
+173 SET 180 995  # SET RETURN ADDRESS
+174 SET 650 0   # call next thread offset finder
+
+# Step5:  Check if next thread is blocked, if so, skip to next thread
+180 JIF 996 700 # if next thread is blocked, skip to next thread
+
+# Step6: Check if next thread status is ready, if not skip
+185 CPY 23 30       # Get current thread base address 
+186 ADD 30 3 		# Now it x31 points to thread state (3 is status's offset)
+187 SET 30 27       # x27 = thread state address
+188 CPYI2 30 27     # x31 = thread state value
+189 JIF 30 210   	# if its not ready (0), try next one as next thread
+
+# thread is not runnable run the next one
+190 ADD 24 1
+191 JIF 996 160 	 	# next thread id calculator (circular array logic)
+
+# Circular Array Logic for Next Thread Offset
+201 SET 0 24    # if its more than 11 (11) start it from 0
+202 JIF 996 160	# Run the thread 1 as next.
+
+
+# Mark thread as running (state = 1) (it was ready before)
+210 CPY 23 30          # Copy thread table address to 23
+211 ADD 30 3           # Address of thread state
+212 SET 1 32           # Set running state value (0 = ready, 1 = running, 2 = blocked)
+213 CPY 32 26          # Copy running state to 26
+214 SET 26 27          # Set 27 to running state value (CPYI2 indirect reference)
+215 CPYI2 27 30        # Update state to running
+
+
+# Update thread info and check if first run
+220 CPY 23 30          # dataMem[30] = dataMem[23] -- Get thread base address
+221 ADD 30 1           # Start time address (offset + 1)
+222 CPYI 30 32         # dataMem[32] = dataMem[dataMem[30]] -- Get current start time
+223 JIF 32 225         # If start time is not zero, skip setting it
+224 JIF 996 240
+225 CPY 999 26
+226 SET 26 27          # Set 27 to start time value (CPYI2 indirect reference)
+227 CPYI2 27 30        # Update start time to current time (999)
+
+# Update execution count
+240 CPY 23 30          # Get thread base address
+241 ADD 30 2           # Address of execution count
+242 CPYI 30 32         # Get current execution count
+243 ADD 32 1           # Increment execution count
+244 CPY 32 26
+245 SET 26 27
+246 CPYI2 27 30         # Update execution count
+
+# Save thread ID as current running thread
+260 CPY 23 998
+261 CPYI 23 32         # Get thread ID
+262 CPY 32 21          # Update current thread ID
+
+# SAVE REGISTERS OF OS (before context switch)
+
+280 SET 50 23           # Set thread table offset to 50 (OS thread)
+281 SET 290 995          # return address for next thread
+282 JIF 996 520          # Save registers of current thread (OS)
+
+290 CPY 998 23           # Copy next thread offset to 23 (at the end for next thread)
+
+# load threads register before context switch
+300 SET 310 995 # Return address
+301 JIF 996 570 # Load registers of thread.
+
+# Switch to user mode, jumping to thread 
+310 CPY 23 994
+311 ADD 994 4           # address of pc
+312 CPYI 994 30        # x31 = address of thread PC 
+313 USER 30            # Switch to user mode
+
+# SYSCALL Entry Point - determine which system call
+480 HLT          # Unknown system call, Halt the cpu
+
+# handler for SYSCALL PRN
+490 CPY 23 30          # x31 = base address of thread entry
+491 ADD 30 6           # x31 = address of thread state
+492 CPY 999 32         # x32 = 999 (for printing)
+493 SET 32 33          # x33 = x32
+494 CPYI2 33 30        # x31 = value to print (x31 now holds the value)
+
+# Make thread state as blocked (3)
+495 CPY 23 30
+496 ADD 30 3
+497 SET 3 33
+498 SET 33 34
+499 CPYI2 34 30
+
+500 JIF 996 130 # Return to step2 # load registers of current thread.
+
+# handler for SYSCALL HLT
+505 CPY 23 30 #
+506 ADD 30 3 # x31 = address of thread state
+507 SET 2 32 # x32 = blocked state 2
+508 CPY 32 40
+509 SET 40 41
+510 CPYI2 41 30 # now thread is blocked.
+511 ADD 22 -1 # 
+512 JIF 996 130 # Return to step2 load registers of current thread.
+
+
+# SYSCALL YIELD handler 
+515 JIF 996 109 # Return to step1 for making it ready again.
+
+# function: SAVE REGISTERS OF CURRENT THREAD
+520 CPY 23 30   # x31 = THREAD TABLE OFFSET
+521 ADD 30 10   # X31 = FIRST REGISTER ADDRESS
+522 SET 1 32    # x32 = 2
+523 SET 21 33   # x33 = x21
+
+# loop:
+530 CPY 30 34
+531 ADDI 34 32 # x34 = targeted register address
+532 CPYI 32 40
+533 SET 40 41
+534 CPYI2 41 34
+535 ADD 32 1
+
+#check for loop
+540 CPY 33 35
+541 CPY 32 36
+542 SUBI 35 36
+543 JIF 36 600 # IF true so its over.
+544 JIF 996 530 # continue saving 
+# loop is over, all registers saved.
+
+# function : LOAD REGISTERS OF CURRENT THREAD
+570 CPY 23 30          # Get thread base address
+571 ADD 30 10          # Address of first additional register (offset + 20)
+572 SET 1 32           # Start with register 1
+573 SET 21 33          # End with register 20
+
+580 CPY 30 34
+581 ADDI 34 32
+582 CPYI 34 40
+583 SET 40 41
+584 CPYI2 41 32
+585 ADD 32 1
+
+# Check if we've loaded all registers
+590 CPY 33 35
+591 CPY 32 36
+592 SUBI 35 36         # Check if we've reached register 20
+593 JIF 36 600        # Done
+594 JIF 996 580		   # LOOP TO START
+# Done loading registers
+
+# Jump to defined return address
+600 CPY 995 0
+
+650 SET 0 41
+651 SET 50 42
+
+660 CPY 41 43     # CHECK IF ITS DONE
+661 SUBI 997 43
+662 JIF 43 680   # FINISH
+
+670 ADD 41 1     # LOOP
+671 ADD 42 40
+672 SET 660 0
+
+680 CPY 42 23
+681 CPY 995 0
+
+#function : check blocked threads and unblock them
+
+700 CPY 23 30
+701 ADD 30 3
+702 CPYI 30 32
+703 SET 3 33
+704 SUBI 33 32
+705 JIF 32 710
+706 JIF 996 185
+
+710 CPY 23 30          # Get thread base address
+711 ADD 30 6            # Address of block counter
+712 CPYI 30 33         # Get current block counter
+713 SUBI 999 33         # Decrement block counter
+714 SET 100 34
+715 SUBI 34 33          # Update block counter
+716 JIF 33 720          # If block counter is zero, unblock the thread
+717 JIF 996 185          # If not, continue checking next thread
+
+720 CPY 23 30          # Get thread base address
+721 ADD 30 3           # Address of thread state
+722 SET 0 32           # Set state to ready (0)
+723 SET 32 33           # x33 = 32
+724 CPYI2 33 30        # Update thread state to ready
+725 JIF 996 185
+
+
+
+# 1000-1999: First Thread - Sorting in Increasing Order
+1000 SYSCALL YIELD
+
+1200 SET 0 1132              # 1132 = 0 (for JIF easy to jump)
+1201 SET 0 1100              # i = 0
+
+# function outher_loop
+1202 CPY 1000 1121           # temp = N
+1203 ADD 1121 -1             # N-1
+1204 CPY 1100 1122           # i
+1205 SUBI 1121 1122          # (N-1)-i 1122
+1206 JIF 1122 1237           # is sorting over?
+1207 SET 0 1101              # j = 0
+
+# function inner_loop
+1208 CPY 1000 1123
+1209 ADD 1123 -1             # N-1
+1210 CPY 1100 1124           # i
+1211 SUBI 1123 1124          # (N-1)-İ = 1124
+1212 CPY 1101 1125           # j
+1213 SUBI 1124 1125          # (N-1-i)-j = 1125
+1214 JIF 1125 1235           # j ≥ N-1-i ? = inner_loop is over
+
+# function recognize registers
+1215 SET 1001 1102           # addr_curr = base
+1216 ADDI 1102 1101          # + j
+1217 CPY 1102 1103           # addr_next = addr_curr
+1218 ADD 1103 1
+
+# function read_and_compare
+1219 CPYI 1102 1104          # val_curr
+1220 CPYI 1103 1105          # val_next
+1221 CPY 1105 1126
+1222 CPY 1104 1127
+1223 SUBI 1126 1127          # diff = next-curr 
+1224 JIF 1127 1227           # if diff > 0, no swap, continue inner_loop
+
+# function no_swap
+1225 ADD 1101 1              # j++
+1226 JIF 1132 1208           # jump to inner_loop
+
+# function swap
+1227 CPY 1103 1112           # 1112 = addr_next (ptr)
+1228 CPY 1102 1113           # 1113 = addr_curr (ptr)
+1229 CPYI2 1112 1113         # arr[j]  = val_next
+1230 SET 1104 1112           # 1112 = &val_curr (konst.)
+1231 CPY 1103 1113           # 1113 = addr_next
+1232 CPYI2 1112 1113         # arr[j+1]= val_curr
+1233 ADD 1101 1              # j++
+1234 JIF 1132 1208           # jump to inner_loop
+
+# function outer_check increment block
+1235 ADD 1100 1              # i++
+1236 JIF 1132 1202           # jump to outher_loop
+# function outer_check end
+
+1237 SET 0 1101              # j = 0 (index for printing)
+1238 JIF 1132 1245           # jump printing
+
+# function printing
+1245 SET 1001 1102           #  addr_curr = base array
+1246 ADDI 1102 1101          #    + j
+1247 CPYI 1102 1130          # 1130 =  arr[j]
+1248 SYSCALL PRN 1130        # print arr[j]
+1249 ADD 1101 1              # j++
+1250 CPY 1000 1120           # N
+1251 CPY 1101 1121           # j
+1252 SUBI 1120 1121          # N-j
+1253 JIF 1121 1255           # if j >= N, jump to end of printing
+1254 JIF 1132 1245           # jump to printing
+1255 SYSCALL HLT             # end of first thread
+
+1999 SYSCALL HLT
+# Linear Search Algorithm - Thread 2
+2000 SYSCALL HLT
+2001 CPY 2000 10       # Initialize counter/index to 0
+2002 CPY 2001 11       # Get number of elements (7)
+2003 CPY 2002 12       # array base address (2050)
+2004 CPY 2003 13       # Get search key (15)
+
+# Main Loop
+2010 CPY 10 14      # Copy current index to register 14
+2011 CPY 11 15      # Copy number of elements to register 15
+2012 SUBI 15 14     # Compare index with number of elements [data[15] - data[14] = DATA[14]]
+2013 JIF 14 2020    # If index >= number of elements, jump to end (out of bounds)
+2014 SET 0 16       # Set found flag to 0 (not found)
+2015 JIF 16 2100    # Check equality
+
+# Out of bounds 
+2020 SET -1 20      # Set return value to -1 (not found)
+2021 SYSCALL PRN 20    # Print return value (for debugging)
+2022 SYSCALL HLT
+
+# Check equality
+2100 CPY 12 14          # Copy base address of array to register 12
+2101 ADDI 14 10         # Calculate address of current element (data[12] + index)
+2102 CPYI 14 16         # Load current element into register 16
+2103 CPY 13 17          # Load search key into register 17
+2104 SUBI 16 17         # Compare current element with search key (data[16] - data[17])
+2105 JIF 17 2110        # If 17 is zero or negative, it might be found, but not guaranteed, so we need to check one more step 
+2106 ADD 10 1           # Increment index (index = index + 1)
+2107 SET 0 5
+2108 JIF 5 2010         # Loop back to main loop
+2110 ADD 17 1           # Add 1 to result of subsraction (if it was zero, it will be 1, if it was negative, it will be 0)
+2111 JIF 17 2120        # if 17 is negative it means we didn't find the key, so loop back to main loop
+2112 SET 0 5            # Instant jump
+2113 JIF 5 2200         # we found the key, jump to found case
+2120 ADD 10 1           # Increment index (index = index + 1)
+2121 SET 0 5            # Reset temp register
+2122 JIF 5 2010         # Loop back to main loop
+
+# Found case
+2200 CPY 10 20          # Set return value to current index (found)
+2201 SYSCALL PRN 20     # Print return value (for debugging)
+2202 SYSCALL HLT
+
+2999 SYSCALL HLT
+
+# Printing Numbers - Thread 3
+3000 SYSCALL HLT 
+3001 CPY 3000 10       # Initialize counter to 0
+3002 CPY 3001 11       # Get number of elements to print (10)
+3003 CPY 3002 12       # Get base address of array (3050)
+
+3010 CPY 10 13      # Copy current index to register 13
+3011 CPY 11 14      # Copy number of elements to register 14
+3012 SUBI 14 13     # Compare index with number of elements [data[14] - data[13] = DATA[13]]
+3013 JIF 13 3300    # If index >= number of elements, jump to end (finish printing)
+3014 SET 0 15       # Set temp register to 0 (for printing)
+3015 JIF 15 3200    # Print current number
+
+# function to print current number
+3200 CPY 12 13          # Copy base address of array to register 12
+3201 ADDI 13 10         # Calculate address of current element (data[12] + index)
+3202 CPYI 13 15         # Load current element into register 15
+3203 SYSCALL PRN 15     # Print current number
+3204 ADD 10 1           # Increment index (index = index + 1)
+3205 SET 0 5            # Reset temp register
+3206 JIF 5 3010         # Loop back to main loop
+
+# Finish printing
+3300 SET 0 20           # Set return value to 0 (indicating success)
+3301 SYSCALL PRN 20     # Print return value (for debugging)
+3302 SYSCALL HLT
+
+3999 SYSCALL HLT
+
+# Thread 4 - Positive Multiply Function
+4000 SYSCALL HLT
+
+4001 CPY 4000 10      # Copy multiplicand (base) to register 2
+4002 CPY 4001 11      # Copy multiplier (exponent) to register 3
+4003 CPY 4002 12      # Initialize result to 1 (register 4)
+4004 SET 0 13         # Initialize counter to 0 (register 5)
+4005 JIF 10 4800      # If base is 0, jump to end (result is 0)
+4006 JIF 11 4800      # If exponent is 0, jump to end (result is 1)
+
+# Main Loop for Multiplication
+# int result = 0;
+# for (j = 0; j < exponent; j++) {
+#    result += base;
+#}
+
+#  main loop:
+4010 CPY 11 14     # Copy exponent to register 14
+4011 CPY 13 15     # Copy counter to register 15
+4012 SUBI 14 15    # Compare counter with exponent [data[14] - data[15] = DATA[15]]
+4013 JIF 15 4800   # If counter >= exponent, jump to end (result is ready)
+4014 ADD 13 1      # Increment counter (counter = counter + 1)
+4015 ADDI 12 10    # Add base to result (result += base)
+4016 SET 0 5       # Reset temp register
+4017 JIF 5 4010    # Loop back to main loop
+# End of Multiplication
+
+4800 CPY 12 4002   
+4801 SYSCALL PRN 4002 # Print base (for debugging)
+4802 SYSCALL HLT
+
+4999 SYSCALL HLT
+
+# Thread 5 - Example loop in pdf
+5000 SYSCALL HLT
+5001 CPY 5000 10          # Copy i to register 10
+5002 SET 0 11            # sum = 0
+5003 ADDI 11 10          # sum = sum + i
+5004 ADD 10 -1           # i = i - 1
+5005 JIF 10 5100         # if i > 0, continue loop
+5006 SYSCALL PRN 11      # Print sum
+5007 SET 5003 0
+
+
+5100 SYSCALL PRN 11
+5101 SYSCALL HLT
+5999 SYSCALL HLT
+
+# Thread 6 - Example of CALL and RET
+# CALL C : Call subroutine at instruction C, push return address
+# RET : Return from subroutine, pop return address and continue execution 
+6000 SYSCALL HLT
+6005 CPY 6000 10           # Copy i to register 10
+6006 SYSCALL HLT
+6010 CALL 6100             # Call subroutine at instruction 6100
+6015 ADDI 12 10            # sum = i (sum was 0 before)
+6020 CALL 6200             # Call subroutine at instruction 6200
+6025 SYSCALL PRN 12        # Print sum
+6030 CALL 6990             # Call system call to halt
+
+6100 CPY 6001 11          # Copy j to register 11
+6101 SYSCALL HLT
+6105 SET 0 12             # sum = 0
+6110 RET                  # Return from subroutine, continue execution at 6003
+
+6200 ADDI 12 11           # sum = sum + j
+6205 RET                  # Return from subroutine, continue execution at 6004
+
+6990 SYSCALL HLT
+6999 SYSCALL HLT
+
+
+# Thread 7 - Example of PUSH and POP
+# PUSH A: Push memory A onto the stack. Stack grows downwards.
+# POP A: Pop the top of the stack into memory A. Stack grows downwards.
+7000 SYSCALL HLT
+7001 CPY 7000 10           # Copy i to register 10
+7002 SET 0 11             # sum = 0
+7003 PUSH 10              # Push i onto the stack
+7004 ADD 11 11            # sum = sum + 11
+7005 SYSCALL PRN 1        # print sp
+
+7010 PUSH 11              # Push sum onto the stack
+7011 SYSCALL PRN 1        # print sp
+
+7015 POP 12               # Pop the top of the stack into register 12
+7016 SYSCALL PRN 12       # Print popped value (should be sum)
+7017 SYSCALL PRN 1        # print sp
+
+7020 POP 10               # Pop the next value into register 10 (should be i)
+7021 SYSCALL PRN 10       # Print popped value (should be i)
+7022 SYSCALL PRN 1        # print sp
+
+7025 ADDI 12 10           # sum = sum + i
+7026 SYSCALL PRN 12       # Print sum
+
+7999 SYSCALL HLT
+
+
+# Thread 8 - Memory Violation Test
+8000 SYSCALL HLT
+8002 CPY 8000 105           # Copy i to register 105 (Memory Violation)
+
+9001 SYSCALL HLT
+
+10001 SYSCALL HLT
+
+End Instruction Section

@@ -1,0 +1,3795 @@
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 745
+Instruction Count: 745
+Thread State: 1
+PC: 1000
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 551
+Instruction Count: 746
+Instruction Count: 746
+Thread State: 1
+PC: 1001
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 590
+Instruction Count: 1746
+Instruction Count: 1746
+Thread State: 1
+PC: 2000
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 591
+Instruction Count: 1747
+Instruction Count: 1747
+Thread State: 1
+PC: 2001
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 2759
+Instruction Count: 2759
+Thread State: 1
+PC: 3000
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 631
+Instruction Count: 2760
+Instruction Count: 2760
+Thread State: 1
+PC: 3001
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 670
+Instruction Count: 3784
+Instruction Count: 3784
+Thread State: 1
+PC: 4000
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 671
+Instruction Count: 3785
+Instruction Count: 3785
+Thread State: 1
+PC: 4001
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 4821
+Instruction Count: 4821
+Thread State: 1
+PC: 5000
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 711
+Instruction Count: 4822
+Instruction Count: 4822
+Thread State: 1
+PC: 5001
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 5870
+Instruction Count: 5870
+Thread State: 1
+PC: 6000
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 751
+Instruction Count: 5871
+Instruction Count: 5871
+Thread State: 1
+PC: 6001
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 6931
+Instruction Count: 6931
+Thread State: 1
+PC: 7000
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 791
+Instruction Count: 6932
+Instruction Count: 6932
+Thread State: 1
+PC: 7001
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 8
+Start Time: 7534
+Execution Count: 830
+Instruction Count: 8004
+Instruction Count: 8004
+Thread State: 1
+PC: 8000
+SP: 8900
+Saved Registers:
+  Register[1] = 8900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 8
+Start Time: 7534
+Execution Count: 831
+Instruction Count: 8005
+Instruction Count: 8005
+Thread State: 1
+PC: 8001
+SP: 8900
+Saved Registers:
+  Register[1] = 8900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 9
+Start Time: 8619
+Execution Count: 870
+Instruction Count: 9089
+Instruction Count: 9089
+Thread State: 1
+PC: 9000
+SP: 9900
+Saved Registers:
+  Register[1] = 9900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 9
+Start Time: 8619
+Execution Count: 871
+Instruction Count: 9090
+Instruction Count: 9090
+Thread State: 1
+PC: 9002
+SP: 9900
+Saved Registers:
+  Register[1] = 9900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 10
+Start Time: 9654
+Execution Count: 910
+Instruction Count: 10124
+Instruction Count: 10124
+Thread State: 1
+PC: 10000
+SP: 10900
+Saved Registers:
+  Register[1] = 10900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 10
+Start Time: 9654
+Execution Count: 911
+Instruction Count: 10125
+Instruction Count: 10125
+Thread State: 1
+PC: 10002
+SP: 10900
+Saved Registers:
+  Register[1] = 10900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 11110
+Instruction Count: 11110
+Thread State: 1
+PC: 1001
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 1661
+Instruction Count: 12221
+Instruction Count: 12221
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 590
+Instruction Count: 13208
+Instruction Count: 13208
+Thread State: 1
+PC: 2001
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 705
+Instruction Count: 13323
+Instruction Count: 13323
+Thread State: 1
+PC: 2022
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 14316
+Instruction Count: 14316
+Thread State: 1
+PC: 3001
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 14329
+Instruction Count: 14329
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 670
+Instruction Count: 15328
+Instruction Count: 15328
+Thread State: 1
+PC: 4001
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 722
+Instruction Count: 15380
+Instruction Count: 15380
+Thread State: 1
+PC: 4802
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 16385
+Instruction Count: 16385
+Thread State: 1
+PC: 5001
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 716
+Instruction Count: 16391
+Instruction Count: 16391
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 17402
+Instruction Count: 17402
+Thread State: 1
+PC: 6001
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 752
+Instruction Count: 17404
+Instruction Count: 17404
+Thread State: 1
+PC: 6007
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 18462
+Instruction Count: 18462
+Thread State: 1
+PC: 7001
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 795
+Instruction Count: 18467
+Instruction Count: 18467
+Thread State: 1
+PC: 7006
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 8
+Start Time: 7534
+Execution Count: 830
+Instruction Count: 19490
+Instruction Count: 19490
+Thread State: 1
+PC: 8001
+SP: 8900
+Saved Registers:
+  Register[1] = 8900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 20666
+Instruction Count: 20666
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 20676
+Instruction Count: 20676
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 590
+Instruction Count: 21675
+Instruction Count: 21675
+Thread State: 1
+PC: 2022
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 7
+  Register[12] = 2050
+  Register[13] = 10
+  Register[14] = 0
+  Register[15] = 7
+  Register[16] = 19
+  Register[17] = 9
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = -1
+====================
+=== THREAD TABLE ===
+Thread ID: 2
+Start Time: 1276
+Execution Count: 591
+Instruction Count: 21676
+Instruction Count: 21676
+Thread State: 1
+PC: 2023
+SP: 2900
+Saved Registers:
+  Register[1] = 2900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 7
+  Register[12] = 2050
+  Register[13] = 10
+  Register[14] = 0
+  Register[15] = 7
+  Register[16] = 19
+  Register[17] = 9
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = -1
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 22678
+Instruction Count: 22678
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3050
+  Register[14] = 10
+  Register[15] = 21
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 22691
+Instruction Count: 22691
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3050
+  Register[14] = 10
+  Register[15] = 21
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 670
+Instruction Count: 23702
+Instruction Count: 23702
+Thread State: 1
+PC: 4802
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 5
+  Register[12] = 30
+  Register[13] = 5
+  Register[14] = 5
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 4
+Start Time: 3314
+Execution Count: 671
+Instruction Count: 23703
+Instruction Count: 23703
+Thread State: 1
+PC: 4803
+SP: 4900
+Saved Registers:
+  Register[1] = 4900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 5
+  Register[12] = 30
+  Register[13] = 5
+  Register[14] = 5
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 24717
+Instruction Count: 24717
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 8
+  Register[11] = 9
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 24722
+Instruction Count: 24722
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 8
+  Register[11] = 9
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 25733
+Instruction Count: 25733
+Thread State: 1
+PC: 6007
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 753
+Instruction Count: 25736
+Instruction Count: 25736
+Thread State: 1
+PC: 6102
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 26806
+Instruction Count: 26806
+Thread State: 1
+PC: 7006
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 792
+Instruction Count: 26808
+Instruction Count: 26808
+Thread State: 1
+PC: 7012
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 28066
+Instruction Count: 28066
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 28076
+Instruction Count: 28076
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 29125
+Instruction Count: 29125
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 1
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3051
+  Register[14] = 10
+  Register[15] = 22
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 29138
+Instruction Count: 29138
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 1
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3051
+  Register[14] = 10
+  Register[15] = 22
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 30211
+Instruction Count: 30211
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 17
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 30216
+Instruction Count: 30216
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 17
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 31227
+Instruction Count: 31227
+Thread State: 1
+PC: 6102
+SP: 6899
+Saved Registers:
+  Register[1] = 6899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 757
+Instruction Count: 31234
+Instruction Count: 31234
+Thread State: 1
+PC: 6026
+SP: 6899
+Saved Registers:
+  Register[1] = 6899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 32263
+Instruction Count: 32263
+Thread State: 1
+PC: 7012
+SP: 7898
+Saved Registers:
+  Register[1] = 7898
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 792
+Instruction Count: 32265
+Instruction Count: 32265
+Thread State: 1
+PC: 7017
+SP: 7898
+Saved Registers:
+  Register[1] = 7898
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 33523
+Instruction Count: 33523
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 33533
+Instruction Count: 33533
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 34582
+Instruction Count: 34582
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 2
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3052
+  Register[14] = 10
+  Register[15] = 23
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 34595
+Instruction Count: 34595
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 2
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3052
+  Register[14] = 10
+  Register[15] = 23
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 35668
+Instruction Count: 35668
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 24
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 35673
+Instruction Count: 35673
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 24
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 36696
+Instruction Count: 36696
+Thread State: 1
+PC: 6026
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 42
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 752
+Instruction Count: 36698
+Instruction Count: 36698
+Thread State: 1
+PC: 6991
+SP: 6900
+Saved Registers:
+  Register[1] = 6900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 42
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 37768
+Instruction Count: 37768
+Thread State: 1
+PC: 7017
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 791
+Instruction Count: 37769
+Instruction Count: 37769
+Thread State: 1
+PC: 7018
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 39027
+Instruction Count: 39027
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 39037
+Instruction Count: 39037
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 40086
+Instruction Count: 40086
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 3
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3053
+  Register[14] = 10
+  Register[15] = 24
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 40099
+Instruction Count: 40099
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 3
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3053
+  Register[14] = 10
+  Register[15] = 24
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 41172
+Instruction Count: 41172
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 5
+  Register[11] = 30
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 41177
+Instruction Count: 41177
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 5
+  Register[11] = 30
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 750
+Instruction Count: 42188
+Instruction Count: 42188
+Thread State: 1
+PC: 6991
+SP: 6899
+Saved Registers:
+  Register[1] = 6899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 42
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 6
+Start Time: 5400
+Execution Count: 751
+Instruction Count: 42189
+Instruction Count: 42189
+Thread State: 1
+PC: 7000
+SP: 6899
+Saved Registers:
+  Register[1] = 6899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 17
+  Register[11] = 25
+  Register[12] = 42
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 43215
+Instruction Count: 43215
+Thread State: 1
+PC: 7018
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 792
+Instruction Count: 43217
+Instruction Count: 43217
+Thread State: 1
+PC: 7022
+SP: 7899
+Saved Registers:
+  Register[1] = 7899
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 44475
+Instruction Count: 44475
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 44485
+Instruction Count: 44485
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 45534
+Instruction Count: 45534
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 4
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3054
+  Register[14] = 10
+  Register[15] = 25
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 45547
+Instruction Count: 45547
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 4
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3054
+  Register[14] = 10
+  Register[15] = 25
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 46620
+Instruction Count: 46620
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 4
+  Register[11] = 35
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 46625
+Instruction Count: 46625
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 4
+  Register[11] = 35
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 47722
+Instruction Count: 47722
+Thread State: 1
+PC: 7022
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 791
+Instruction Count: 47723
+Instruction Count: 47723
+Thread State: 1
+PC: 7023
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 48981
+Instruction Count: 48981
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 48991
+Instruction Count: 48991
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 50040
+Instruction Count: 50040
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 5
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3055
+  Register[14] = 10
+  Register[15] = 26
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 50053
+Instruction Count: 50053
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 5
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3055
+  Register[14] = 10
+  Register[15] = 26
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 51126
+Instruction Count: 51126
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 3
+  Register[11] = 39
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 51131
+Instruction Count: 51131
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 3
+  Register[11] = 39
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 52228
+Instruction Count: 52228
+Thread State: 1
+PC: 7023
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 792
+Instruction Count: 52230
+Instruction Count: 52230
+Thread State: 1
+PC: 7027
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 11
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 53488
+Instruction Count: 53488
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 53498
+Instruction Count: 53498
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 54547
+Instruction Count: 54547
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3056
+  Register[14] = 10
+  Register[15] = 27
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 54560
+Instruction Count: 54560
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 6
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3056
+  Register[14] = 10
+  Register[15] = 27
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 55633
+Instruction Count: 55633
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 2
+  Register[11] = 42
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 55638
+Instruction Count: 55638
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 2
+  Register[11] = 42
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 790
+Instruction Count: 56735
+Instruction Count: 56735
+Thread State: 1
+PC: 7027
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 71
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 7
+Start Time: 6461
+Execution Count: 791
+Instruction Count: 56736
+Instruction Count: 56736
+Thread State: 1
+PC: 8000
+SP: 7900
+Saved Registers:
+  Register[1] = 7900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 60
+  Register[11] = 11
+  Register[12] = 71
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 57991
+Instruction Count: 57991
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 58001
+Instruction Count: 58001
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 59050
+Instruction Count: 59050
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3057
+  Register[14] = 10
+  Register[15] = 28
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 59063
+Instruction Count: 59063
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 7
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3057
+  Register[14] = 10
+  Register[15] = 28
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 60136
+Instruction Count: 60136
+Thread State: 1
+PC: 5007
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 1
+  Register[11] = 44
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 715
+Instruction Count: 60141
+Instruction Count: 60141
+Thread State: 1
+PC: 5101
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 1
+  Register[11] = 44
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 61541
+Instruction Count: 61541
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 560
+Instruction Count: 61551
+Instruction Count: 61551
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 62600
+Instruction Count: 62600
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 8
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3058
+  Register[14] = 10
+  Register[15] = 21
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 643
+Instruction Count: 62613
+Instruction Count: 62613
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 8
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3058
+  Register[14] = 10
+  Register[15] = 21
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 710
+Instruction Count: 63686
+Instruction Count: 63686
+Thread State: 1
+PC: 5101
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 45
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 5
+Start Time: 4351
+Execution Count: 711
+Instruction Count: 63687
+Instruction Count: 63687
+Thread State: 1
+PC: 5102
+SP: 5900
+Saved Registers:
+  Register[1] = 5900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 45
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 550
+Instruction Count: 65084
+Instruction Count: 65084
+Thread State: 1
+PC: 1249
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 1
+Start Time: 275
+Execution Count: 556
+Instruction Count: 65090
+Instruction Count: 65090
+Thread State: 1
+PC: 1256
+SP: 1900
+Saved Registers:
+  Register[1] = 1900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 0
+  Register[11] = 0
+  Register[12] = 0
+  Register[13] = 0
+  Register[14] = 0
+  Register[15] = 0
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 630
+Instruction Count: 66136
+Instruction Count: 66136
+Thread State: 1
+PC: 3204
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 9
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3059
+  Register[14] = 10
+  Register[15] = 20
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 639
+Instruction Count: 66145
+Instruction Count: 66145
+Thread State: 1
+PC: 3302
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 9
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 3059
+  Register[14] = 10
+  Register[15] = 20
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 633
+Instruction Count: 67757
+Instruction Count: 67757
+Thread State: 1
+PC: 3302
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 10
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 0
+  Register[14] = 10
+  Register[15] = 20
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+=== THREAD TABLE ===
+Thread ID: 3
+Start Time: 2289
+Execution Count: 634
+Instruction Count: 67758
+Instruction Count: 67758
+Thread State: 1
+PC: 3303
+SP: 3900
+Saved Registers:
+  Register[1] = 3900
+  Register[2] = 0
+  Register[3] = 0
+  Register[4] = 0
+  Register[5] = 0
+  Register[6] = 0
+  Register[7] = 0
+  Register[8] = 0
+  Register[9] = 0
+  Register[10] = 10
+  Register[11] = 10
+  Register[12] = 3050
+  Register[13] = 0
+  Register[14] = 10
+  Register[15] = 20
+  Register[16] = 0
+  Register[17] = 0
+  Register[18] = 0
+  Register[19] = 0
+  Register[20] = 0
+====================
+GTU-C312 CPU initialized.
+Program loaded from main.txt
+PRN: -222
+PRN: -1
+PRN: 21
+PRN: 30
+PRN: 9
+PRN: 7899
+Memory access violation in user mode: 105. Thread ID: 8. PC: 8002
+PRN: -1
+PRN: 22
+PRN: 17
+PRN: 7898
+PRN: 0
+PRN: 23
+PRN: 24
+PRN: 42
+PRN: 11
+PRN: 2
+PRN: 24
+PRN: 30
+PRN: 7899
+PRN: 3
+PRN: 25
+PRN: 35
+PRN: 60
+PRN: 4
+PRN: 26
+PRN: 39
+PRN: 7900
+PRN: 4
+PRN: 27
+PRN: 42
+PRN: 71
+PRN: 5
+PRN: 28
+PRN: 44
+PRN: 8
+PRN: 21
+PRN: 45
+PRN: 9
+PRN: 20
+PRN: 0
+Halting CPU.
